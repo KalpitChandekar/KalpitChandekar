@@ -33,7 +33,9 @@
 
 <p align="left">
 <a href="https://twitter.com/kalpitchandekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalpitchandekar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kalpitchandekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalpitchandekar" height="30" width="40" /></a>
+ 
+<a href="[https://linkedin.com/in/kalpitchandekar](https://www.linkedin.com/in/kalpit-chandekar-50a487255/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalpitchandekar" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/kᴀʟᴘιт cнᴀɴᴅᴇκᴀʀ ࿐" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kᴀʟᴘιт cнᴀɴᴅᴇκᴀʀ ࿐" height="30" width="40" /></a>
 </p>
 
