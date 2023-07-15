@@ -4,7 +4,7 @@
 
 <h3 align="center">"Passionate Web Developer Crafting Digital Experiences"</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  style="border-radius: 20px ;">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpitchandekar&label=Profile%20views&color=0e75b6&style=flat" alt="kalpitchandekar" /> </p>
 
