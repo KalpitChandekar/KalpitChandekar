@@ -4,14 +4,16 @@
 
 <h3 align="center">"Passionate Web Developer Crafting Digital Experiences"</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" >
+Hello there! 👋 I'm KalpitChandekar, a passionate frontend developer. Also, I want to gathered vast knowledge about coding, designing, markup languages and other things that are related to this sector. I love learning and implementing according to time.I post my projects content and learnings on my Linkedin profile "[KalpitChandekar](https://www.linkedin.com/in/kalpit-chandekar-50a487255/)" with more than 5k followers. I always try to beat previous me and make myself better day by day, giving my best to learn and acquire top skills and become a great developer. 🎯
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpitchandekar&label=Profile%20views&color=0e75b6&style=flat" alt="kalpitchandekar" /> </p>
+<p>
+<a href="#"> <img src="https://komarev.com/ghpvc/?username=KalpitChandekar" alt="KalpitChandekar" /></a>
+<a href="https://github.com/KalpitChandekar?tab=followers"><img src="https://img.shields.io/github/followers/KalpitChandekar?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/kalpitchandekar" target="blank"><img src="https://img.shields.io/twitter/follow/kalpitchandekar?logo=twitter&style=for-the-badge" alt="kalpitchandekar" /></a> </p>
+<hr/>
 
-
-
+<img align="right" alt="Coding" width="370"  src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" >
 
 🚀 More about me
 
@@ -26,6 +28,7 @@
 - 📫 How to reach me **kalpitchandekar1736@gmail.com**
 
 - ⚡ Fun fact **Debugging: My Sherlock Holmes mode.**
+
 
 #
 
@@ -47,35 +50,29 @@
 #
 
 <h3 align="left" style="margin-bottom: 20px;" > 🧰 Languages and Tools</h3>
-<p align="left"> <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />        
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,tailwind,js,bootstrap,sass,c,python,git,github,vscode,netlify,ai" />
 
-<img align="left" alt="c" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
-<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- 
- <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
- <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-          
-<img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- </p>
- <br />
 
  ##
 
  <h3 align="left"> 📊 My Github Stats</h3>
 
-<table>
+<table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=kalpitchandekar&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="kalpitchandekar" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpitchandekar&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="kalpitchandekar" /></td
   </tr>
 </table>
 
+<table <p align="center">
+  <tr>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KalpitChandekar&theme=highcontrast&hide_border=true" alt="kalpitchandekar" /></p></td>
+
+  </tr>
+</table>
+
+##
+
+Thank you for visiting my GitHub repository. Happy coding! 😊 
 
