@@ -13,7 +13,7 @@ Hello there! 👋 I'm KalpitChandekar, a passionate frontend developer. Also, I 
 
 <hr/>
 
-<img align="right" alt="Coding" width="370"  src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" >
+<img align="right" alt="Coding" width="400"  src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" >
 
 🚀 More about me
 
@@ -53,7 +53,7 @@ Hello there! 👋 I'm KalpitChandekar, a passionate frontend developer. Also, I 
 
 <h3 align="left" style="margin-bottom: 20px;" > 🧰 Languages and Tools</h3>
 
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,tailwind,js,bootstrap,sass,c,python,git,github,vscode,netlify,ai" />
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,tailwind,js,bootstrap,sass,c,python,git,github,vscode,netlify" />
 
 
  ##
