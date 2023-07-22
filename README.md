@@ -19,7 +19,7 @@ Hello there! 👋 I'm KalpitChandekar, a passionate frontend developer. Also, I 
 
 - 🔭 I’m currently working on **Improving My Frontend Skills**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **Frontend Developing**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
@@ -28,6 +28,8 @@ Hello there! 👋 I'm KalpitChandekar, a passionate frontend developer. Also, I 
 - 📫 How to reach me **kalpitchandekar1736@gmail.com**
 
 - ⚡ Fun fact **Debugging: My Sherlock Holmes mode.**
+
+- 😄 Pronouns: **He/Him**
 
 
 #
