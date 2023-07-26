@@ -23,7 +23,7 @@ Hello there! 👋 I'm KalpitChandekar, a passionate frontend developer. Also, I 
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 💬 Ask me about **html,css and javascript**
+- 💬 Ask me about **html, css and javascript**
 
 - 📫 How to reach me **kalpitchandekar1736@gmail.com**
 
