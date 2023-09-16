@@ -53,7 +53,7 @@ Hello there! 👋 I'm KalpitChandekar, a passionate frontend developer. Also, I 
 
 <h3 align="left" style="margin-bottom: 20px;" > 🧰 Languages and Tools</h3>
 
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,tailwind,js,bootstrap,sass,c,python,git,github,vscode,netlify" />
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,git,github,vscode,netlify" />
 
 
  ##
