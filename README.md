@@ -4,7 +4,7 @@
 
 <h3 align="center">"Passionate Web Developer Crafting Digital Experiences"</h3>
 
-Hello there! 👋 I'm KalpitChandekar, a passionate frontend developer. Also, I want to gathered vast knowledge about coding, designing, markup languages and other things that are related to this sector. I love learning and implementing according to time.I post my projects content and learnings on my Linkedin profile "[KalpitChandekar](https://www.linkedin.com/in/kalpit-chandekar-50a487255/)" with more than 5k followers. I always try to beat previous me and make myself better day by day, giving my best to learn and acquire top skills and become a great developer. 🎯
+Hello there! 👋 I'm KalpitChandekar, a passionate frontend developer. Also, I want to gathered vast knowledge about coding, markup languages and other things that are related to this sector. I love learning and implementing according to time.I post my projects content and learnings on my Linkedin profile "[KalpitChandekar](https://www.linkedin.com/in/kalpit-chandekar-50a487255/)" with more than 5k followers. I always try to beat previous me and make myself better day by day, giving my best to learn and acquire top skills and become a great developer. 🎯
 
 <p>
 <a href="#"> <img src="https://komarev.com/ghpvc/?username=KalpitChandekar" alt="KalpitChandekar" /></a>
