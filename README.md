@@ -58,24 +58,5 @@ Hello there! 👋 I'm KalpitChandekar, a passionate frontend developer. Also, I 
 
  ##
 
- <h3 align="left"> 📊 My Github Stats</h3>
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kalpitchandekar&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="kalpitchandekar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpitchandekar&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="kalpitchandekar" /></td
-  </tr>
-</table>
-
-<table <p align="center">
-  <tr>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KalpitChandekar&theme=highcontrast&hide_border=true" alt="kalpitchandekar" /></p></td>
-
-  </tr>
-</table>
-
-##
-
-
 Thank you for visiting my GitHub repository. Happy coding! 😊 
 
