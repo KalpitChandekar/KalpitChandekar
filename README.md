@@ -76,10 +76,6 @@ Hello there! 👋 I'm KalpitChandekar, a passionate frontend developer. Also, I 
 
 ##
 
-### 🏆 My Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=KalpitChandekar&theme=radical&row=1&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-##
 
 Thank you for visiting my GitHub repository. Happy coding! 😊 
 
