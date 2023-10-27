@@ -19,7 +19,7 @@ Hello there! 👋 I'm KalpitChandekar, a passionate frontend developer. Also, I 
 
 - 🔭 I’m currently working on **Improving My Frontend Skills**
 
-- 🌱 I’m currently learning **Frontend Developing**
+- 🌱 I’m currently learning **DSA with Javascript**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
