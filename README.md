@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **Improving My Frontend Skills**
 
-- 🌱 I’m currently learning **DSA with Javascript**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
