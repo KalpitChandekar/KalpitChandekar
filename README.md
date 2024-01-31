@@ -27,8 +27,6 @@
 
 - 📫 How to reach me **kalpitchandekar1736@gmail.com**
 
-- ⚡ Fun fact **Debugging: My Sherlock Holmes mode.**
-
 - 😄 Pronouns: **He/Him**
 
 #
