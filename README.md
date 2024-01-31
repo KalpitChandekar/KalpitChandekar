@@ -17,18 +17,17 @@
 
 🚀 More about me
 
-- 🔭 I’m currently working on **Improving My Frontend Skills**
+🔭 I’m currently working on Improving My Frontend Skills at Salk AI
 
-- 🌱 I’m currently learning **Next JS**
+🌱 I’m currently learning Next JS and TypeScript
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+👯 I’m looking to collaborate on Frontend Projects
 
-- 💬 Ask me about **html, css and javascript**
+💬 Ask me about HTML, CSS, JavaScript, React JS, Next JS, and TypeScript
 
-- 📫 How to reach me **kalpitchandekar1736@gmail.com**
+📫 How to reach me: kalpitchandekar1736@gmail.com
 
-- 😄 Pronouns: **He/Him**
-
+😄 Pronouns: He/Him
 #
 
 <h3 align="left" style="margin-bottom: 20px;" > 🧰 Languages</h3>
