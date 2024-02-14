@@ -27,7 +27,7 @@
 
 📫 How to reach me : kalpitchandekar1736@gmail.com
 
-😄 Pronouns: He/Him
+😄 Pronouns : He/Him
 #
 
 <h3 align="left" style="margin-bottom: 20px;" > 🧰 Languages</h3>
