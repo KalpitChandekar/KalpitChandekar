@@ -25,7 +25,7 @@
 
 💬 Ask me about HTML, CSS, JavaScript, React JS, Next JS, and TypeScript
 
-📫 How to reach me: kalpitchandekar1736@gmail.com
+📫 How to reach me : kalpitchandekar1736@gmail.com
 
 😄 Pronouns: He/Him
 #
