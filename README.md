@@ -19,7 +19,7 @@
 
 🔭 I’m currently working on Improving My Frontend Skills at Salk AI
 
-🌱 I’m currently learning Next JS 
+🌱 I’m currently learning Next JS and Typescript
 
 👯 I’m looking to collaborate on Frontend Projects
 
