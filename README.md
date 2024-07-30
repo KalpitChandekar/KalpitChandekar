@@ -4,7 +4,7 @@
 
 <h3 align="center">"Passionate Web Developer Crafting Digital Experiences"</h3>
 
-"Hello there! 👋  I'm Kalpit Chandekar | Passionate frontend developer 🚀 | Lifelong learner 📚 | Sharing my coding journey and projects on LinkedIn profile "[KalpitChandekar](https://www.linkedin.com/in/kalpit-chandekar-50a487255/)" with over 5k followers 💼 | Committed to self-improvement and constant growth 🌱 | On a mission to acquire top skills and become a great web developer 🎯"
+"Hello there! 👋 I'm Kalpit Chandekar | Passionate frontend developer 🚀 | Lifelong learner 📚 | Sharing my coding journey and projects on LinkedIn profile "[KalpitChandekar](https://www.linkedin.com/in/kalpit-chandekar-50a487255/)" with over 5k followers 💼 | Committed to self-improvement and constant growth 🌱 | On a mission to acquire top skills and become a great web developer 🎯"
 
 <p>
 <a href="#"> <img src="https://komarev.com/ghpvc/?username=KalpitChandekar" alt="KalpitChandekar" /></a>
