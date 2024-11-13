@@ -17,7 +17,7 @@
 
 🚀 More about me
 
-🔭 I’m currently working on Improving My Frontend Skills 
+🔭 I’m currently working on Improving My Frontend Skills at Salk.AI
 
 🌱 I’m currently learning Next JS and Typescript
 
