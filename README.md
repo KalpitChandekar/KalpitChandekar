@@ -7,7 +7,7 @@
 "Hello there!👋 I'm Kalpit Chandekar | Passionate frontend developer 🚀 | Lifelong learner 📚 | Sharing my coding journey and projects on LinkedIn profile "[KalpitChandekar](https://www.linkedin.com/in/kalpit-chandekar-50a487255/)" with over 5k followers 💼 | Committed to self-improvement and constant growth 🌱 | On a mission to acquire top skills and become a great web developer  🎯"
 
 <p>
-<a href="#"> <img src="https://komarev.com/ghpvc/?username=KalpitChandekar" alt="KalpitChandekar"/></a>
+<a href="#"> <img src="https://komarev.com/ghpvc/?username=KalpitChandekar" alt="KalpitChandekar" /></a>
 <a href="https://github.com/KalpitChandekar?tab=followers"><img src="https://img.shields.io/github/followers/KalpitChandekar?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
