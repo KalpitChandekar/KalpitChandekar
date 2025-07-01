@@ -2,9 +2,9 @@
 
 ###
 
-<h3 align="center">"Passionate Web Developer Crafting Digital Experiences"</h3>
+<h3 align="center">"Frontend Developer | Building sleek, performant UIs with React & Next.js"</h3>
 
-"Hello there!👋 I'm Kalpit Chandekar | Passionate frontend developer 🚀 | Building [Salk.AI](https://salk.ai/) | Lifelong learner 📚 | Sharing my coding journey and projects on LinkedIn profile "[KalpitChandekar](https://www.linkedin.com/in/kalpit-chandekar-50a487255/)" with over 5k followers 💼 | Committed to self-improvement and constant growth 🌱 | On a mission to acquire top skills and become a great web developer 🎯"
+"Hello there! 👋 I'm Kalpit Chandekar — a passionate frontend developer 🚀 currently building at Salk.AI. I'm a lifelong learner 📚, consistently improving and sharing my coding journey and projects on LinkedIn, where I’ve built a community of over 5k followers 💼. I'm committed to self-improvement 🌱 and on a mission to master top industry skills and become a world-class web developer 🎯."
 
 <p>
 <a href="#"> <img src="https://komarev.com/ghpvc/?username=KalpitChandekar" alt="KalpitChandekar"/> </a>
@@ -15,19 +15,20 @@
 
 <img align="right" alt="Coding" width="400"  src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" >
 
-🚀 More about me
+🌟 More about me
 
-🔭 I’m currently working on Improving My Frontend Skills at Salk.AI
+🚀 I'm a frontend developer with a passion for building clean, responsive, and engaging web experiences. 
+ 
+💼 Currently honing my skills at [Salk.AI](https://salk.ai/)  
 
-🌱 I’m currently learning Next JS and Typescript
+🌱 Learning **Next.js**, **TypeScript**, and diving deeper into scalable UI architecture  
 
-👯 I’m looking to collaborate on Frontend Projects
+📚 Sharing my journey with 5K+ connections on [LinkedIn](https://www.linkedin.com/in/kalpit-chandekar-50a487255/)  
 
-💬 Ask me about HTML, CSS, JavaScript, React JS, Next JS, and TypeScript
+🎯 Focused on self-growth, open source, and building impactful products  
 
-📫 How to reach me : kalpitchandekar1736@gmail.com
+📍 Based in India | He/Him  
 
-😄 Pronouns : He/Him
 #
 
 <h3 align="left" style="margin-bottom: 20px;" > 🧰 Languages</h3>
