@@ -4,7 +4,7 @@
 
 <h3 align="center">"Frontend Developer | Building sleek, performant UIs with React & Next.js"</h3>
 
-"Hello there! 👋 I'm Kalpit Chandekar — a passionate frontend developer 🚀 currently building at Salk.AI. I'm a lifelong learner 📚, consistently improving and sharing my coding journey and projects on LinkedIn, where I’ve built a community of over 5k followers 💼. I'm committed to self-improvement 🌱 and on a mission to master top industry skills and become a world-class web developer 🎯."
+"Hello there! 👋 I'm Kalpit Chandekar — a passionate frontend developer 🚀 currently building Salk.AI. I'm a lifelong learner 📚, consistently improving and sharing my coding journey and projects on LinkedIn, where I’ve built a community of over 5k followers 💼. I'm committed to self-improvement 🌱 and on a mission to master top industry skills and become a world-class web developer 🎯."
 
 <p>
 <a href="#"> <img src="https://komarev.com/ghpvc/?username=KalpitChandekar" alt="KalpitChandekar"/> </a>
