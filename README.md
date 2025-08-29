@@ -20,8 +20,6 @@
 
 🚀 I'm a frontend developer with a passion for building clean, responsive, and engaging web experiences. 
  
-💼 Currently honing my skills at [Salk.AI](https://salk.ai/)  
-
 🌱 Learning **Next.js**, **TypeScript**, and diving deeper into scalable UI architecture  
 
 📚 Sharing my journey with 5K+ connections on [LinkedIn](https://www.linkedin.com/in/kalpit-chandekar-50a487255/)  
