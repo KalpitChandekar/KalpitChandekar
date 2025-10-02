@@ -2,9 +2,9 @@
 
 ###
 
-<h3 align="center">"Frontend Developer | Building sleek, performant UIs with React & Next.js"</h3>
+<h3 align="center">"Frontend Developer | Building sleek, performant, and complete web apps with React & Next.js"</h3>
 
-"Hello there! 👋 I'm Kalpit Chandekar — a passionate frontend developer 🚀 currently working in Salk.AI. I'm a lifelong learner 📚, consistently improving and sharing my coding journey and projects on LinkedIn, where I’ve built a community of over 5k followers 💼. I'm committed to self-improvement 🌱 and on a mission to master top industry skills and become a world-class web developer 🎯."
+"Hello there! 👋 I'm Kalpit Chandekar - a passionate frontend developer 🚀 currently working in [BugCure](https://www.linkedin.com/company/bugcuredigital/). I'm a lifelong learner 📚, consistently improving and sharing my coding journey and projects on LinkedIn, where I’ve built a community of over 5k followers 💼. I'm committed to self-improvement 🌱 and on a mission to master top industry skills and become a world-class web developer 🎯."
 
 <p>
  
@@ -18,11 +18,13 @@
 
 🌟 More about me
 
-🚀 I'm a frontend developer with a passion for building clean, responsive, and engaging web experiences. 
+🚀 With 1+ years of experience
  
-🌱 Learning **Next.js**, **TypeScript**, and diving deeper into scalable UI architecture  
+💻 Strong expertise in **React, Next.js, TypeScript, and Tailwind CSS** <br/>
 
-📚 Sharing my journey with 5K+ connections on [LinkedIn](https://www.linkedin.com/in/kalpit-chandekar-50a487255/)  
+📚 Sharing my journey with 5K+ connections on [LinkedIn](https://www.linkedin.com/in/kalpit-chandekar-50a487255/) 
+
+🌱 Currently expanding into **databases, APIs, and integrations** to strengthen my full-stack capabilities <br/>
 
 🎯 Focused on self-growth, open source, and building impactful products  
 
@@ -32,17 +34,17 @@
 
 <h3 align="left" style="margin-bottom: 20px;" > 🧰 Languages</h3>
 
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Typescript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%#3178C6)
+![Typescript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%3178C6)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2335495e.svg?style=for-the-badge&logo=tailwindcss&logoColor=%234FC08D)
 <br/>
 
 ### ☁️ Cloud
-![Netlify](https://img.shields.io/badge/netlify-%23CC0000.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 <br/>
 
